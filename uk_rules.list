@@ -1,4 +1,3 @@
-payload:
  - DOMAIN-SUFFIX,uk
  # Monzo
  - DOMAIN-SUFFIX,monzo.me
