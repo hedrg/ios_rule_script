@@ -32,4 +32,5 @@ DOMAIN-SUFFIX,walletteam.org,Germany
 # Other
 DOMAIN-SUFFIX,ka.app,Germany
 DOMAIN-SUFFIX,nash.io,Germany
-DOMAIN-SUFFIX,coinbase.com,Germany
+DOMAIN-KEYWORD,coinbase,Germany
+DOMAIN-KEYWORD,westernunion,Germany
