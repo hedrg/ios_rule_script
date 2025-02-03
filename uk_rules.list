@@ -5,6 +5,12 @@ DOMAIN-SUFFIX,monzo.me,UK
 DOMAIN-SUFFIX,monzo.com,UK
 DOMAIN-SUFFIX,monzo-alt.net,UK
 DOMAIN-SUFFIX,nonprod-ffs.io,UK
+DOMAIN-SUFFIX,monzo.statuspage.io,UK
+DOMAIN-KEYWORD,monzo,UK
+
+# Wise
+DOMAIN-SUFFIX,wise.com,UK
+DOMAIN,tw-avatar.s3.eu-central-1.amazonaws.com,UK
 
 # Barclays
 DOMAIN-SUFFIX,barclays.com,UK
@@ -72,3 +78,13 @@ DOMAIN-SUFFIX,clearscore.com,UK
 DOMAIN-SUFFIX,moneyboxapp.com,UK
 DOMAIN-SUFFIX,totallymoney.com,UK
 DOMAIN-SUFFIX,myflutterwave.com,UK
+# 信用分查询
+DOMAIN-SUFFIX,creditkarma.co.uk,UK
+DOMAIN-SUFFIX,totallymoney.uk,UK
+DOMAIN-SUFFIX,totallymoney.com,UK
+DOMAIN-SUFFIX,clearscore.com,UK
+DOMAIN-SUFFIX,checkmyfile.com,UK
+DOMAIN-SUFFIX,hellopillar.com,UK
+DOMAIN-SUFFIX,pillar.money,UK
+DOMAIN-SUFFIX,experian.co.uk,UK
+DOMAIN-SUFFIX,experianidentityservice.co.uk,UK
