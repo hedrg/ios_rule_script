@@ -1,26 +1,23 @@
-# N26
-DOMAIN-SUFFIX,n26.com,ABCproxy-DE🇩🇪
-DOMAIN-SUFFIX,tech26.de,ABCproxy-DE🇩🇪
-DOMAIN-SUFFIX,umber26.den,ABCproxy-DE🇩🇪
-DOMAIN-SUFFIX,dev-tech26.de,ABCproxy-DE🇩🇪
+# 🇩🇪 德国（Germany）
+DOMAIN-SUFFIX,n26.com,Germany,no-resolve
+DOMAIN-SUFFIX,tech26.de,Germany,no-resolve
+DOMAIN-SUFFIX,umber26.den,Germany,no-resolve
+DOMAIN-SUFFIX,dev-tech26.de,Germany,no-resolve
 
-# Bybit DE
-DOMAIN-SUFFIX,bymj.io,ABCproxy-DE🇩🇪
-DOMAIN-SUFFIX,bybit.com,ABCproxy-DE🇩🇪
-DOMAIN-SUFFIX,bycsi.com,ABCproxy-DE🇩🇪
-DOMAIN-SUFFIX,bybit.biz,ABCproxy-DE🇩🇪
-DOMAIN-SUFFIX,byd3c3.com,ABCproxy-DE🇩🇪
-DOMAIN-SUFFIX,bybdc6.com,ABCproxy-DE🇩🇪
-DOMAIN-SUFFIX,byapps.net,ABCproxy-DE🇩🇪
-DOMAIN-SUFFIX,byabcde.com,ABCproxy-DE🇩🇪
-DOMAIN-SUFFIX,bybit.cloud,ABCproxy-DE🇩🇪
-DOMAIN-SUFFIX,bybit-aws.com,ABCproxy-DE🇩🇪
-DOMAIN-SUFFIX,bybitglobal.com,ABCproxy-DE🇩🇪
-DOMAIN-SUFFIX,bybit-global.com,ABCproxy-DE🇩🇪
+DOMAIN-SUFFIX,bymj.io,Germany,no-resolve
+DOMAIN-SUFFIX,bybit.com,Germany,no-resolve
+DOMAIN-SUFFIX,bycsi.com,Germany,no-resolve
+DOMAIN-SUFFIX,bybit.biz,Germany,no-resolve
+DOMAIN-SUFFIX,byd3c3.com,Germany,no-resolve
+DOMAIN-SUFFIX,bybdc6.com,Germany,no-resolve
+DOMAIN-SUFFIX,byapps.net,Germany,no-resolve
+DOMAIN-SUFFIX,byabcde.com,Germany,no-resolve
+DOMAIN-SUFFIX,bybit.cloud,Germany,no-resolve
+DOMAIN-SUFFIX,bybit-aws.com,Germany,no-resolve
+DOMAIN-SUFFIX,bybitglobal.com,Germany,no-resolve
+DOMAIN-SUFFIX,bybit-global.com,Germany,no-resolve
 
-# Coinbase DE
-DOMAIN-KEYWORD,coinbase,ABCproxy-DE🇩🇪
+DOMAIN-KEYWORD,coinbase,Germany,no-resolve
 
-# Germany (所有德国 IP)
-GEOIP,DE,ABCproxy-DE🇩🇪
-
+# 所有德国 IP
+GEOIP,DE,Germany,no-resolve
