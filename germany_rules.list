@@ -1,28 +1,35 @@
- - DOMAIN-SUFFIX,de
- # N26
- - DOMAIN-SUFFIX,n26.com
- - DOMAIN-SUFFIX,tech26.de
- - DOMAIN-SUFFIX,umber26.den
- - DOMAIN-SUFFIX,dev-tech26.de
- # Bybit
- - DOMAIN-SUFFIX,bymj.io
- - DOMAIN-SUFFIX,bybit.com
- - DOMAIN-SUFFIX,bycsi.com
- - DOMAIN-SUFFIX,bybit.biz
- - DOMAIN-SUFFIX,byd3c3.com
- - DOMAIN-SUFFIX,bybdc6.com
- - DOMAIN-SUFFIX,byapps.net
- - DOMAIN-SUFFIX,byabcde.com
- - DOMAIN-SUFFIX,bybit.cloud
- - DOMAIN-SUFFIX,bybit-aws.com
- - DOMAIN-SUFFIX,bybitglobal.com
- - DOMAIN-SUFFIX,bybit-global.com
- # Telegram Wallet
- - DOMAIN-SUFFIX,tonapi.io
- - DOMAIN-SUFFIX,walletbot.me
- - DOMAIN-SUFFIX,walletteam.org
- # Other
- - DOMAIN-SUFFIX,ka.app
- - DOMAIN-SUFFIX,nash.io
- - DOMAIN-SUFFIX,coinbase.com
- - GEOIP,DE
+# 🇩🇪 德国（Germany）
+
+# N26
+DOMAIN-SUFFIX,de,Germany,no-resolve
+DOMAIN-SUFFIX,n26.com,Germany,no-resolve
+DOMAIN-SUFFIX,tech26.de,Germany,no-resolve
+DOMAIN-SUFFIX,umber26.den,Germany,no-resolve
+DOMAIN-SUFFIX,dev-tech26.de,Germany,no-resolve
+
+# Bybit
+DOMAIN-SUFFIX,bymj.io,Germany,no-resolve
+DOMAIN-SUFFIX,bybit.com,Germany,no-resolve
+DOMAIN-SUFFIX,bycsi.com,Germany,no-resolve
+DOMAIN-SUFFIX,bybit.biz,Germany,no-resolve
+DOMAIN-SUFFIX,byd3c3.com,Germany,no-resolve
+DOMAIN-SUFFIX,bybdc6.com,Germany,no-resolve
+DOMAIN-SUFFIX,byapps.net,Germany,no-resolve
+DOMAIN-SUFFIX,byabcde.com,Germany,no-resolve
+DOMAIN-SUFFIX,bybit.cloud,Germany,no-resolve
+DOMAIN-SUFFIX,bybit-aws.com,Germany,no-resolve
+DOMAIN-SUFFIX,bybitglobal.com,Germany,no-resolve
+DOMAIN-SUFFIX,bybit-global.com,Germany,no-resolve
+
+# Telegram Wallet
+DOMAIN-SUFFIX,tonapi.io,Germany,no-resolve
+DOMAIN-SUFFIX,walletbot.me,Germany,no-resolve
+DOMAIN-SUFFIX,walletteam.org,Germany,no-resolve
+
+# Other
+DOMAIN-SUFFIX,ka.app,Germany,no-resolve
+DOMAIN-SUFFIX,nash.io,Germany,no-resolve
+DOMAIN-SUFFIX,coinbase.com,Germany,no-resolve
+
+# 所有德国 IP
+GEOIP,DE,Germany,no-resolve
