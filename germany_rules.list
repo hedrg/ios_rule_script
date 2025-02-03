@@ -33,6 +33,3 @@ DOMAIN-SUFFIX,walletteam.org,Germany
 DOMAIN-SUFFIX,ka.app,Germany
 DOMAIN-SUFFIX,nash.io,Germany
 DOMAIN-SUFFIX,coinbase.com,Germany
-
-# 所有德国 IP
-GEOIP,DE,Germany
