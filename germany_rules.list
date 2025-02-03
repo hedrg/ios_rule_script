@@ -1,4 +1,3 @@
-payload:
  - DOMAIN-SUFFIX,de
  # N26
  - DOMAIN-SUFFIX,n26.com
