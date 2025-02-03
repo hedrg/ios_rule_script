@@ -1,7 +1,6 @@
 # 🇩🇪 德国（Germany）
 
 # N26
-DOMAIN-SUFFIX,de,Germany,no-resolve
 DOMAIN-SUFFIX,n26.com,Germany,no-resolve
 DOMAIN-SUFFIX,tech26.de,Germany,no-resolve
 DOMAIN-SUFFIX,umber26.den,Germany,no-resolve
