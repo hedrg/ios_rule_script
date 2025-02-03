@@ -1,63 +1,77 @@
- # Monzo
- - DOMAIN-SUFFIX,monzo.me
- - DOMAIN-SUFFIX,monzo.com
- - DOMAIN-SUFFIX,monzo-alt.net
- - DOMAIN-SUFFIX,nonprod-ffs.io
- # Barclays
- - DOMAIN-SUFFIX,barclays.com
- - DOMAIN-SUFFIX,barclays.mobi
- # Curve
- - DOMAIN-SUFFIX,curve.com
- - DOMAIN-SUFFIX,curve.app
- - DOMAIN-SUFFIX,imaginecurve.com
- # Lloyds
- - DOMAIN-SUFFIX,lloydsbank.com
- - DOMAIN-SUFFIX,lloydsbank.co.uk
- - DOMAIN-SUFFIX,lloydsbankinggroup.com
- # MyGuava
- - DOMAIN-SUFFIX,myguava.com
- - DOMAIN-SUFFIX,guavapay.com
- # Zilch
- - DOMAIN-SUFFIX,zilch.com
- - DOMAIN-SUFFIX,payzilch.com
- - DOMAIN-SUFFIX,meawallet.app
- # Pillar
- - DOMAIN-SUFFIX,pillar.money
- - DOMAIN-SUFFIX,hellopillar.com
- # Experian
- - DOMAIN-SUFFIX,experian.co.uk
- - DOMAIN-SUFFIX,experianidentityservice.co.uk
- # Kraken
- - DOMAIN-SUFFIX,kraken.io
- - DOMAIN-SUFFIX,kraken.com
- # UKP & Royal mail
- - DOMAIN-SUFFIX,expo.dev
- - DOMAIN-SUFFIX,exp.host
- - DOMAIN-SUFFIX,royalmail.com
- - DOMAIN-SUFFIX,ipostalmail.net
- # Other
- - DOMAIN-SUFFIX,nala.com
- - DOMAIN-SUFFIX,myfin.bg
- - DOMAIN-SUFFIX,etana.com
- - DOMAIN-SUFFIX,yapily.com
- - DOMAIN-SUFFIX,skrill.com
- - DOMAIN-SUFFIX,profee.com
- - DOMAIN-SUFFIX,loqbox.com
- - DOMAIN-SUFFIX,excelon.io
- - DOMAIN-SUFFIX,wuzo.co.uk
- - DOMAIN-SUFFIX,paysend.com
- - DOMAIN-SUFFIX,chase.co.uk
- - DOMAIN-SUFFIX,giffgaff.com
- - DOMAIN-SUFFIX,withplum.com
- - DOMAIN-SUFFIX,freetrade.io
- - DOMAIN-SUFFIX,nala-api.com
- - DOMAIN-SUFFIX,truelayer.com
- - DOMAIN-SUFFIX,neverless.com
- - DOMAIN-SUFFIX,taptapsend.com
- - DOMAIN-SUFFIX,worldremit.com
- - DOMAIN-SUFFIX,trading212.com
- - DOMAIN-SUFFIX,clearscore.com
- - DOMAIN-SUFFIX,moneyboxapp.com
- - DOMAIN-SUFFIX,totallymoney.com
- - DOMAIN-SUFFIX,myflutterwave.com
- - GEOIP,GB
+# 🇬🇧 英国（UK）
+
+# Monzo
+DOMAIN-SUFFIX,monzo.me
+DOMAIN-SUFFIX,monzo.com
+DOMAIN-SUFFIX,monzo-alt.net
+DOMAIN-SUFFIX,nonprod-ffs.io
+
+# Barclays
+DOMAIN-SUFFIX,barclays.com
+DOMAIN-SUFFIX,barclays.mobi
+
+# Curve
+DOMAIN-SUFFIX,curve.com
+DOMAIN-SUFFIX,curve.app
+DOMAIN-SUFFIX,imaginecurve.com
+
+# Lloyds
+DOMAIN-SUFFIX,lloydsbank.com
+DOMAIN-SUFFIX,lloydsbank.co.uk
+DOMAIN-SUFFIX,lloydsbankinggroup.com
+
+# MyGuava
+DOMAIN-SUFFIX,myguava.com
+DOMAIN-SUFFIX,guavapay.com
+
+# Zilch
+DOMAIN-SUFFIX,zilch.com
+DOMAIN-SUFFIX,payzilch.com
+DOMAIN-SUFFIX,meawallet.app
+
+# Pillar
+DOMAIN-SUFFIX,pillar.money
+DOMAIN-SUFFIX,hellopillar.com
+
+# Experian
+DOMAIN-SUFFIX,experian.co.uk
+DOMAIN-SUFFIX,experianidentityservice.co.uk
+
+# Kraken
+DOMAIN-SUFFIX,kraken.io
+DOMAIN-SUFFIX,kraken.com
+
+# UKP & Royal Mail
+DOMAIN-SUFFIX,expo.dev
+DOMAIN-SUFFIX,exp.host
+DOMAIN-SUFFIX,royalmail.com
+DOMAIN-SUFFIX,ipostalmail.net
+
+# Other
+DOMAIN-SUFFIX,nala.com
+DOMAIN-SUFFIX,myfin.bg
+DOMAIN-SUFFIX,etana.com
+DOMAIN-SUFFIX,yapily.com
+DOMAIN-SUFFIX,skrill.com
+DOMAIN-SUFFIX,profee.com
+DOMAIN-SUFFIX,loqbox.com
+DOMAIN-SUFFIX,excelon.io
+DOMAIN-SUFFIX,wuzo.co.uk
+DOMAIN-SUFFIX,paysend.com
+DOMAIN-SUFFIX,chase.co.uk
+DOMAIN-SUFFIX,giffgaff.com
+DOMAIN-SUFFIX,withplum.com
+DOMAIN-SUFFIX,freetrade.io
+DOMAIN-SUFFIX,nala-api.com
+DOMAIN-SUFFIX,truelayer.com
+DOMAIN-SUFFIX,neverless.com
+DOMAIN-SUFFIX,taptapsend.com
+DOMAIN-SUFFIX,worldremit.com
+DOMAIN-SUFFIX,trading212.com
+DOMAIN-SUFFIX,clearscore.com
+DOMAIN-SUFFIX,moneyboxapp.com
+DOMAIN-SUFFIX,totallymoney.com
+DOMAIN-SUFFIX,myflutterwave.com
+
+# 所有英国 IP
+GEOIP,GB
