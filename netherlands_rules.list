@@ -4,7 +4,7 @@
 DOMAIN-KEYWORD,bunq,Netherlands
 
 # Marktplaats
-DOMAIN-SUFFIX,marktplaats.nl,Netherlands,no-resolve
+DOMAIN-SUFFIX,marktplaats.nl,Netherlands
 
 # 所有荷兰 IP
-GEOIP,NL,Netherlands,no-resolve
+GEOIP,NL,Netherlands
