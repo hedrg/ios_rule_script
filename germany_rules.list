@@ -1,34 +1,34 @@
 # 🇩🇪 德国（Germany）
 
 # N26
-DOMAIN-SUFFIX,n26.com,Germany,no-resolve
-DOMAIN-SUFFIX,tech26.de,Germany,no-resolve
-DOMAIN-SUFFIX,umber26.den,Germany,no-resolve
-DOMAIN-SUFFIX,dev-tech26.de,Germany,no-resolve
+DOMAIN-SUFFIX,n26.com,Germany
+DOMAIN-SUFFIX,tech26.de,Germany
+DOMAIN-SUFFIX,umber26.de,Germany
+DOMAIN-SUFFIX,dev-tech26.de,Germany
 
 # Bybit
-DOMAIN-SUFFIX,bymj.io,Germany,no-resolve
-DOMAIN-SUFFIX,bybit.com,Germany,no-resolve
-DOMAIN-SUFFIX,bycsi.com,Germany,no-resolve
-DOMAIN-SUFFIX,bybit.biz,Germany,no-resolve
-DOMAIN-SUFFIX,byd3c3.com,Germany,no-resolve
-DOMAIN-SUFFIX,bybdc6.com,Germany,no-resolve
-DOMAIN-SUFFIX,byapps.net,Germany,no-resolve
-DOMAIN-SUFFIX,byabcde.com,Germany,no-resolve
-DOMAIN-SUFFIX,bybit.cloud,Germany,no-resolve
-DOMAIN-SUFFIX,bybit-aws.com,Germany,no-resolve
-DOMAIN-SUFFIX,bybitglobal.com,Germany,no-resolve
-DOMAIN-SUFFIX,bybit-global.com,Germany,no-resolve
+DOMAIN-SUFFIX,bymj.io,Germany
+DOMAIN-SUFFIX,bybit.com,Germany
+DOMAIN-SUFFIX,bycsi.com,Germany
+DOMAIN-SUFFIX,bybit.biz,Germany
+DOMAIN-SUFFIX,byd3c3.com,Germany
+DOMAIN-SUFFIX,bybdc6.com,Germany
+DOMAIN-SUFFIX,byapps.net,Germany
+DOMAIN-SUFFIX,byabcde.com,Germany
+DOMAIN-SUFFIX,bybit.cloud,Germany
+DOMAIN-SUFFIX,bybit-aws.com,Germany
+DOMAIN-SUFFIX,bybitglobal.com,Germany
+DOMAIN-SUFFIX,bybit-global.com,Germany
 
 # Telegram Wallet
-DOMAIN-SUFFIX,tonapi.io,Germany,no-resolve
-DOMAIN-SUFFIX,walletbot.me,Germany,no-resolve
-DOMAIN-SUFFIX,walletteam.org,Germany,no-resolve
+DOMAIN-SUFFIX,tonapi.io,Germany
+DOMAIN-SUFFIX,walletbot.me,Germany
+DOMAIN-SUFFIX,walletteam.org,Germany
 
 # Other
-DOMAIN-SUFFIX,ka.app,Germany,no-resolve
-DOMAIN-SUFFIX,nash.io,Germany,no-resolve
-DOMAIN-SUFFIX,coinbase.com,Germany,no-resolve
+DOMAIN-SUFFIX,ka.app,Germany
+DOMAIN-SUFFIX,nash.io,Germany
+DOMAIN-SUFFIX,coinbase.com,Germany
 
 # 所有德国 IP
-GEOIP,DE,Germany,no-resolve
+GEOIP,DE,Germany
