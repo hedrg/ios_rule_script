@@ -1,77 +1,77 @@
 # 🇬🇧 英国（UK）
 
 # Monzo
-DOMAIN-SUFFIX,monzo.me,UK,no-resolve
-DOMAIN-SUFFIX,monzo.com,UK,no-resolve
-DOMAIN-SUFFIX,monzo-alt.net,UK,no-resolve
-DOMAIN-SUFFIX,nonprod-ffs.io,UK,no-resolve
+DOMAIN-SUFFIX,monzo.me,UK
+DOMAIN-SUFFIX,monzo.com,UK
+DOMAIN-SUFFIX,monzo-alt.net,UK
+DOMAIN-SUFFIX,nonprod-ffs.io,UK
 
 # Barclays
-DOMAIN-SUFFIX,barclays.com,UK,no-resolve
-DOMAIN-SUFFIX,barclays.mobi,UK,no-resolve
+DOMAIN-SUFFIX,barclays.com,UK
+DOMAIN-SUFFIX,barclays.mobi,UK
 
 # Curve
-DOMAIN-SUFFIX,curve.com,UK,no-resolve
-DOMAIN-SUFFIX,curve.app,UK,no-resolve
-DOMAIN-SUFFIX,imaginecurve.com,UK,no-resolve
+DOMAIN-SUFFIX,curve.com,UK
+DOMAIN-SUFFIX,curve.app,UK
+DOMAIN-SUFFIX,imaginecurve.com,UK
 
 # Lloyds
-DOMAIN-SUFFIX,lloydsbank.com,UK,no-resolve
-DOMAIN-SUFFIX,lloydsbank.co.uk,UK,no-resolve
-DOMAIN-SUFFIX,lloydsbankinggroup.com,UK,no-resolve
+DOMAIN-SUFFIX,lloydsbank.com,UK
+DOMAIN-SUFFIX,lloydsbank.co.uk,UK
+DOMAIN-SUFFIX,lloydsbankinggroup.com,UK
 
 # MyGuava
-DOMAIN-SUFFIX,myguava.com,UK,no-resolve
-DOMAIN-SUFFIX,guavapay.com,UK,no-resolve
+DOMAIN-SUFFIX,myguava.com,UK
+DOMAIN-SUFFIX,guavapay.com,UK
 
 # Zilch
-DOMAIN-SUFFIX,zilch.com,UK,no-resolve
-DOMAIN-SUFFIX,payzilch.com,UK,no-resolve
-DOMAIN-SUFFIX,meawallet.app,UK,no-resolve
+DOMAIN-SUFFIX,zilch.com,UK
+DOMAIN-SUFFIX,payzilch.com,UK
+DOMAIN-SUFFIX,meawallet.app,UK
 
 # Pillar
-DOMAIN-SUFFIX,pillar.money,UK,no-resolve
-DOMAIN-SUFFIX,hellopillar.com,UK,no-resolve
+DOMAIN-SUFFIX,pillar.money,UK
+DOMAIN-SUFFIX,hellopillar.com,UK
 
 # Experian
-DOMAIN-SUFFIX,experian.co.uk,UK,no-resolve
-DOMAIN-SUFFIX,experianidentityservice.co.uk,UK,no-resolve
+DOMAIN-SUFFIX,experian.co.uk,UK
+DOMAIN-SUFFIX,experianidentityservice.co.uk,UK
 
 # Kraken
-DOMAIN-SUFFIX,kraken.io,UK,no-resolve
-DOMAIN-SUFFIX,kraken.com,UK,no-resolve
+DOMAIN-SUFFIX,kraken.io,UK
+DOMAIN-SUFFIX,kraken.com,UK
 
 # UKP & Royal Mail
-DOMAIN-SUFFIX,expo.dev,UK,no-resolve
-DOMAIN-SUFFIX,exp.host,UK,no-resolve
-DOMAIN-SUFFIX,royalmail.com,UK,no-resolve
-DOMAIN-SUFFIX,ipostalmail.net,UK,no-resolve
+DOMAIN-SUFFIX,expo.dev,UK
+DOMAIN-SUFFIX,exp.host,UK
+DOMAIN-SUFFIX,royalmail.com,UK
+DOMAIN-SUFFIX,ipostalmail.net,UK
 
 # Other
-DOMAIN-SUFFIX,nala.com,UK,no-resolve
-DOMAIN-SUFFIX,myfin.bg,UK,no-resolve
-DOMAIN-SUFFIX,etana.com,UK,no-resolve
-DOMAIN-SUFFIX,yapily.com,UK,no-resolve
-DOMAIN-SUFFIX,skrill.com,UK,no-resolve
-DOMAIN-SUFFIX,profee.com,UK,no-resolve
-DOMAIN-SUFFIX,loqbox.com,UK,no-resolve
-DOMAIN-SUFFIX,excelon.io,UK,no-resolve
-DOMAIN-SUFFIX,wuzo.co.uk,UK,no-resolve
-DOMAIN-SUFFIX,paysend.com,UK,no-resolve
-DOMAIN-SUFFIX,chase.co.uk,UK,no-resolve
-DOMAIN-SUFFIX,giffgaff.com,UK,no-resolve
-DOMAIN-SUFFIX,withplum.com,UK,no-resolve
-DOMAIN-SUFFIX,freetrade.io,UK,no-resolve
-DOMAIN-SUFFIX,nala-api.com,UK,no-resolve
-DOMAIN-SUFFIX,truelayer.com,UK,no-resolve
-DOMAIN-SUFFIX,neverless.com,UK,no-resolve
-DOMAIN-SUFFIX,taptapsend.com,UK,no-resolve
-DOMAIN-SUFFIX,worldremit.com,UK,no-resolve
-DOMAIN-SUFFIX,trading212.com,UK,no-resolve
-DOMAIN-SUFFIX,clearscore.com,UK,no-resolve
-DOMAIN-SUFFIX,moneyboxapp.com,UK,no-resolve
-DOMAIN-SUFFIX,totallymoney.com,UK,no-resolve
-DOMAIN-SUFFIX,myflutterwave.com,UK,no-resolve
+DOMAIN-SUFFIX,nala.com,UK
+DOMAIN-SUFFIX,myfin.bg,UK
+DOMAIN-SUFFIX,etana.com,UK
+DOMAIN-SUFFIX,yapily.com,UK
+DOMAIN-SUFFIX,skrill.com,UK
+DOMAIN-SUFFIX,profee.com,UK
+DOMAIN-SUFFIX,loqbox.com,UK
+DOMAIN-SUFFIX,excelon.io,UK
+DOMAIN-SUFFIX,wuzo.co.uk,UK
+DOMAIN-SUFFIX,paysend.com,UK
+DOMAIN-SUFFIX,chase.co.uk,UK
+DOMAIN-SUFFIX,giffgaff.com,UK
+DOMAIN-SUFFIX,withplum.com,UK
+DOMAIN-SUFFIX,freetrade.io,UK
+DOMAIN-SUFFIX,nala-api.com,UK
+DOMAIN-SUFFIX,truelayer.com,UK
+DOMAIN-SUFFIX,neverless.com,UK
+DOMAIN-SUFFIX,taptapsend.com,UK
+DOMAIN-SUFFIX,worldremit.com,UK
+DOMAIN-SUFFIX,trading212.com,UK
+DOMAIN-SUFFIX,clearscore.com,UK
+DOMAIN-SUFFIX,moneyboxapp.com,UK
+DOMAIN-SUFFIX,totallymoney.com,UK
+DOMAIN-SUFFIX,myflutterwave.com,UK
 
 # 所有英国 IP
-GEOIP,GB,UK,no-resolve
+GEOIP,GB,UK
