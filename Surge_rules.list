@@ -1,1 +1,26 @@
+# N26
+DOMAIN-SUFFIX,n26.com,ABCproxy-DE🇩🇪
+DOMAIN-SUFFIX,tech26.de,ABCproxy-DE🇩🇪
+DOMAIN-SUFFIX,umber26.den,ABCproxy-DE🇩🇪
+DOMAIN-SUFFIX,dev-tech26.de,ABCproxy-DE🇩🇪
+
+# Bybit DE
+DOMAIN-SUFFIX,bymj.io,ABCproxy-DE🇩🇪
+DOMAIN-SUFFIX,bybit.com,ABCproxy-DE🇩🇪
+DOMAIN-SUFFIX,bycsi.com,ABCproxy-DE🇩🇪
+DOMAIN-SUFFIX,bybit.biz,ABCproxy-DE🇩🇪
+DOMAIN-SUFFIX,byd3c3.com,ABCproxy-DE🇩🇪
+DOMAIN-SUFFIX,bybdc6.com,ABCproxy-DE🇩🇪
+DOMAIN-SUFFIX,byapps.net,ABCproxy-DE🇩🇪
+DOMAIN-SUFFIX,byabcde.com,ABCproxy-DE🇩🇪
+DOMAIN-SUFFIX,bybit.cloud,ABCproxy-DE🇩🇪
+DOMAIN-SUFFIX,bybit-aws.com,ABCproxy-DE🇩🇪
+DOMAIN-SUFFIX,bybitglobal.com,ABCproxy-DE🇩🇪
+DOMAIN-SUFFIX,bybit-global.com,ABCproxy-DE🇩🇪
+
+# Coinbase DE
+DOMAIN-KEYWORD,coinbase,ABCproxy-DE🇩🇪
+
+# Germany (所有德国 IP)
+GEOIP,DE,ABCproxy-DE🇩🇪
 
