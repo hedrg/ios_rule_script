@@ -72,6 +72,3 @@ DOMAIN-SUFFIX,clearscore.com,UK
 DOMAIN-SUFFIX,moneyboxapp.com,UK
 DOMAIN-SUFFIX,totallymoney.com,UK
 DOMAIN-SUFFIX,myflutterwave.com,UK
-
-# 所有英国 IP
-GEOIP,GB,UK
